@@ -6,7 +6,13 @@ In this repository you will find the node-red flow of the dashboard along with s
 
 Everything is clear and organized so feel free to explore!
 
-Here is a video recodring that specifies how everything worked out and also contains the final dashboard:</br>
+This project uses IBM services and AI technologies to create a clear and organized dashboard that analyzes the sentiment of a twitter feed related to COVID-19.
+
+Project description:
+
+![Test Image ](/desc.PNG)
+
+Here is a video recodring that specifies how everything works and also contains the final dashboard:</br>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S9s0b87mE_8/0.jpg)](https://www.youtube.com/watch?v=S9s0b87mE_8)
 
