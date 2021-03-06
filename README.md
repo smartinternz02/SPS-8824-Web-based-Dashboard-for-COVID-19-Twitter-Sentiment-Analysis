@@ -10,7 +10,7 @@ This project uses IBM services and AI technologies to create a clear and organiz
 
 Project description:
 
-![Test Image ](/desc.PNG)
+![Test Image ](/desc.png)
 
 Here is a video recodring that specifies how everything works and also contains the final dashboard:</br>
 
