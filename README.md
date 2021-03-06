@@ -13,3 +13,4 @@ Here is a video recodring that specifies how everything worked out and also cont
 
 Also these are 2 screenshots of the final dashboard:
 
+![Test Image 1](/1.JPG)
