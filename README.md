@@ -11,6 +11,12 @@ Here is a video recodring that specifies how everything worked out and also cont
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S9s0b87mE_8/0.jpg)](https://www.youtube.com/watch?v=S9s0b87mE_8)
 
 
-Also these are 2 screenshots of the final dashboard:
+The node-red flow:
 
 ![Test Image 1](/1.JPG)
+
+The final dashboard:
+
+![Test Image 2](/2.JPG)
+
+![Test Image 3](/3.JPG)
