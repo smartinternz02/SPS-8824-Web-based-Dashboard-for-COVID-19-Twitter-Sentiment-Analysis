@@ -22,6 +22,8 @@ The node-red flow:
 
 ![Test Image 1](/1.JPG)
 
+
+
 The final dashboard:
 
 ![Test Image 2](/2.JPG)
